@@ -49,7 +49,7 @@ def hello():
             .name {
                 font-weight: bold;
                 font-size: 24px;
-                font-family: 'Script MT Bold', sans-serif;
+                font-family: 'Pacifico', cursive;
             }
             .message {
                 font-style: italic;
@@ -87,8 +87,8 @@ def hello():
                 bottom: 10px;
                 right: 10px;
                 border-radius: 50%;
-                width: 80px;
-                height: 80px;
+                width: 120px;
+                height: 120px;
             }
         </style>
     </head>
@@ -96,7 +96,7 @@ def hello():
         <div class="container">
             <div class="header">
                 <div class="bold">Hello DOCKERian, Welcome ! ! !</div>
-                <div class="message">Firstly, Congratulation for deploying the python application successfully</div>
+                <div class="message">Firstly, Congratulations for deploying the Python Application successfully</div>
                 <img src="https://d2gbo5uoddvg5.cloudfront.net/images/gifs/logo-docker.gif" class="gif" alt="Docker Gif" width="150">
             </div>
             <div>
